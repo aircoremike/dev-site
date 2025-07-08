@@ -1,2 +1,1 @@
-# dev-site
-UNDER CONSTRUCTION -aircorebearings.com
+This is the official page of AIRCORE BEARINGS.
